@@ -34,8 +34,8 @@ const App = () => {
       <NavBar/>
       <Header />
       <Experience/>
-      <About/>
-      <Contact/>
+      {/* <About/> */}
+      {/* <Contact/> */}
       <Footer/>
     </div>
   )
